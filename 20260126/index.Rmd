@@ -1,0 +1,291 @@
+---
+title: "**Introduction**"
+author: "Merlin Balkhash"
+institute: "Department of Linguistics, Rutgers University"
+date: "2025/09/05 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["rutgers", "rutgers-fonts"]
+    lib_dir: libs
+    includes:
+      after_body: [nav.html, header.html]
+    nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+--- 
+## Course-related Reminders
+.pull-left[
+<br><br>
+**AI policy**: allowed to use **with acknowledgement**
+- You **must** acknowledge your source <br><br>
+- You **must** provide the full and complete AI output/response to your query <br><br>
+- Please use a [university-approved AI source](https://it.rutgers.edu/ai/#ai-assistants) <br><br>
+- Be aware of **AI's errors and hallucinations**
+  - Hi, Prof. G. Please solve $x$ for $2x+1=0$.
+  - Sure thing! We can think it this way. **2** halves become a complete **1**, so $2x=1$...<br><br>
+- Asking "what is **equation**?" is fine, but "solve **this equation**" is not
+]
+.pull-right[
+![width=80%](../pic/0905/halluci.png)
+]
+
+---
+## Course-related Reminders
+<br><br>
+.pull-left[
+![width=80%](../pic/0905/homework.png)
+]
+.pull-right[
+<br><br>
+**homework Dropping**
+- Lowest **two** Homework grades will be dropped<br><br>
+- Use it **wisely**<br><br>
+
+**being absent or late/early leaving**
+- absence needs previous notifying via **email**<br><br>
+
+**my own langauge issue**
+]
+
+---
+## **Linguistics**
+.pull-left[
+<br><br>
+--
+What is **Linguistics**?
+- Literature Studies, Language Learning...?
+
+<br><br>
+Linguistics is the **scientific** study of language
+
+A primary goal of linguistics is to figure out what is in people’s **mental grammar**
+]
+.pull-right[
+![width=80%](../pic/0905/ling.png)
+]
+
+---
+## **Mental Grammar**
+.pull-left[
+### Grammar is in our **MIND**! 
+- **cognitive** and **mental**.
+
+<br>
+### a paradox
+- I ain't got no time.
+
+- **good**, we understand, accept and use it.
+- **bad**, double negation is not allowed.
+<br><br>
+
+- So how can the sentence both be **good** and **bad** at the same time?
+<br><br>
+
+- **PRESCRIPTIVISM** vs. **DESCRIPTIVISM**
+]
+-.pull-right[
+![height=80%](../pic/0905/double.jpg)
+]
+---
+## **Prescriptivism**
+<br>
+.pull-left[
+- there is only one "**correct**" way to talk <br><br>
+- it tells people what they **should** and **shouldn't** do (it prescribes languages) <br><br>
+  - **Don't** use double negatives.
+  - **Don't** split your infinitives.
+  - **Ain't** ain't a word.
+  - **Don't** end sentences with a preposition.<br><br>
+- English speakers break these rules all the time
+<br><br>
+  - I **can’t** get **no** satisfaction.
+  - **To** boldly **go** where no one has gone.
+  - If it **ain’t** broke, don’t fix it.
+  - What is she up **to**?
+  ]
+.pull-right[
+![width=80%](../pic/0905/alot.jpg)
+]
+---
+## **Descriptivism**
+<br>
+.pull-left[
+![width=80%](../pic/0905/native.jpeg)
+]
+.pull-right[
+- An alternative approach to **describe** how people **REALLY** talk daily without judgment <br><br>
+- Linguists take a **descriptive** approach<br><br>
+- **Because**:<br><br>
+  - it helps maintain a **neutral**, **scientific** point of view.
+  - we won't get very far by focusing on prescriptive rules.
+  - It **respects** the language patterns of every individual and community as completely **legitimate** and **valid** ways to talk.
+]
+
+---
+## **grammatical vs. ungrammatical**
+<br>
+.pull-left[
+- **Grammatical**: Language that would be **said and understood** by a native speaker, and would sound **natural** to a native speaker<br><br>
+- **Ungrammatical**: Language that would **NOT** be said or understood by a native speaker<br><br>
+  - $*$ John has finishing his homework.
+  - $*$ This apples is delicious.<br><br>
+- Speakers may disagree on what is grammatical based on their own mental grammar <br><br>
+- language can be **non-standard** but still **grammatical**<br><br>
+  - How about them apples!
+  - I don't want none!
+]
+.pull-right[
+![width=80%](../pic/0905/meow.jpeg)
+]
+
+---
+## **standard** vs. **non-standard** language
+<br>
+.pull-left[
+- Since we take **descriptivism**, we need to **avoid** judgmental terms <br><br>
+  - ~~bad grammar~~
+  - ~~incorrect language~~
+  - ~~broken English~~
+<br><br>
+- **standard language**: the variety taught in schools and used in **formal and official settings** like the workplace, education, government, newsmedia, textbooks, etc.
+<br><br>
+- **non-standard language**: other varieties used in more colloquial settings
+]
+
+.pull-right[
+![width=80%](../pic/0905/bad.png)
+
+- The standard variety is often a bit artificial and no one speaks that way all the time
+- People may disagree on what counts as standard or non-standard
+- Non-standard language may be **stigmatized** in some cases, but - it is just as legitimate and expressive as standard language. There is nothing inherently "better" or "worse" about any variety or language
+]
+---
+## (un)grammatical & (non-)standard
+<br>
+.pull-left[
+In groups, **invent three English sentences**: <br><br>
+1. A grammatical, standard English sentence.
+2. A grammatical, non-standard English sentence.
+3. An ungrammatical English sentence.
+
+<br>
+Pick **one** of your group's sentences to read aloud for the rest of the class. The rest of the class will have to figure out which one it is.
+]
+
+.pull-right[
+![width=80%](../pic/0905/ignor.jpeg)
+]
+---
+## Rules are **variable**
+<br>
+.pull-left[
+- We've seen that language follows mental rules, and that non-standard varieties also have rules<br><br>
+- Another important point: the rules of language are often variable<br><br>
+- Not everyone speaks the same, and not everyone has the same mental rules<br><br>
+- Grammar often varies by region, community, and other social factors but no matter where you're from, you still have a mental grammar
+]
+
+.pull-right[
+
+Each one of these sentences is used in one or more varieties of American English. Which of them sound natural to you? If not, how would you say it?
+<br><br>
+1. She was standing on line for tickets.
+2. It’s a quarter of three in the afternoon.
+3. I thought you might could help me.
+4. Do you want to come with?
+5. He doesn’t have no time.
+6. I'm finished my homework.
+7. My shirt needs washed.
+8. He had went to the store.
+
+<br>
+(*Visit the [Yale Grammatical Diversity Project](https://ygdp.yale.edu/) for more info about each of these grammatical phenomena.*)
+]
+
+---
+## Subfields of Linguistics
+<br>
+.pull-left[
+Major subfields of linguistics are:<br><br>
+- **Phonetics** – physical attributes of speech sounds<br><br>
+- **Phonology** – speech sounds considered as a system<br><br>
+- **Morphology** – structure of words<br><br>
+- **Syntax** – structure of sentences<br><br>
+- **Semantics** – literal meaning<br><br>
+- **Pragmatics** – implied meaning<br><br>
+]
+.pull-right[
+![width=80%](../pic/0905/colour.jpg)
+<br><br>
+*Colorless green ideas sleep furiously*.
+]
+
+---
+## Subfields of Linguistics
+<br>
+.pull-left[
+Major subfields of linguistics are:<br><br>
+- **Phonetics** – physical attributes of speech sounds<br><br>
+- **Phonology** – speech sounds considered as a system<br><br>
+- **Morphology** – structure of words<br><br>
+- **Syntax** – structure of sentences<br><br>
+- **Semantics** – literal meaning<br><br>
+- **Pragmatics** – implied meaning
+]
+
+.pull-right[
+Other subfields:<br><br>
+- Sociolinguistics<br><br>
+- Linguistic Anthropology<br><br>
+- Historical Linguistics<br><br>
+- Psycholinguistics<br><br>
+- Neurolingusitics<br><br>
+- Language Acquisition / Second Language Acuisition<br><br>
+- Computational Linguistics<br><br>
+- Forensic Linguistics
+]
+
+---
+## Linguistics as A **Science**
+<br>
+.pull-left[
+- Linguistics is the **scientific** study of langauge <br><br>
+- But what does it mean to say that it's **science**?  <br><br>
+- What is a science?<br><br>
+![width=80%](../pic/0905/linguist.png)
+]
+.pull-right[
+Science uses the **scientific method** to test hypotheses about how natural phenomena (in our case, language) work:
+1. Develop a **hypothesis** grounded in personal observations, theory, and previous research<br><br>
+2. **Design an experiment** to collect real-world (empirical) data to test your hypothesis<br><br>
+3. Run your experiment, **collect** your data<br><br>
+4. **Analyse your data** - is your hypothesis true or false?<br><br>
+5. Based on your results, update your theories, develop a new hypothesis, and **repeat**!
+]
+---
+## Linguistics as A **Science**
+<br>
+.pull-left[
+1. I found everyone around me is a linguist (**observation**)<br><br>
+2. I thought that every Rutgers student is a linguist (**hypothesis**)<br><br>
+3. I went out and asked every one (**experiment**)<br><br>
+4. I found a Rutgers student who is actually mathematician (**reject**)<br><br>
+5. I have a new hypothesis! (**repeat**)
+]
+
+.pull-right[
+Come up with your own experiment!
+- Most English permits only 1 modal/clause: I <u>*might*</u> eat. I <u>*could*</u> eat.<br><br>
+- Southern American English permits 2: I <u>*might*</u> <u>*could*</u> eat.
+Come up with a hypothesis – a statement that could be true or false – about English modals. (Ideas: Where specifically? What about other modals: can, may, should, oughta? Does anyone use more than 2?) <br><br>
+- What kind of data could you collect to prove or disprove your hypothesis? How could you design an experiment to collect that data?
+]
+
+---
+class: center, middle
+**Intro Survey** due Sunday<br><br>
+**Morphology reading** by next Wednesday
+<br><br><br>
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).

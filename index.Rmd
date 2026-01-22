@@ -1,0 +1,314 @@
+---
+output:
+  html_document:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+  text-decoration: underline;
+}
+</style><br><br>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:65%; vertical-align:middle; padding:1em;">
+      <h1>Introduction to Linguistic Theories</h1><br>
+      <h4 style="color:grey; margin:0;">Spring, 2026</h4><br>
+      <h4 style="color:grey; margin:0;">01:615:201:01</h4><br>
+      <h5 style="margin:0;">Linguistics Department, Rutgers University</h5>
+    </td>
+    <td style="width:35%; text-align:center; vertical-align:middle; padding:1em;">
+      <img src="courseimage.png" style="max-width:95%; height:auto;">
+    </td>
+  </tr>
+</table>
+
+---
+
+This is an R Markdown document serving as the directory. You can find links to the slides and more information of the course *Introduction to Linguistic Theories* (Spring, 2026). May you enjoy taking the course.
+<br><br>
+
+### [Syllabus](syllabus.pdf) (clickable)<br>
+
+___
+### Tentative Schedule
+
+<table style="width:100%; border-collapse:collapse; font-size:1.2em;">
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"><b>Week</b></td>
+    <td style="width:15%; text-align:center"><b>Date</b></td>
+    <td style="width:30%; text-align:left"><b>Topic</b></td>
+    <td style="width:48%; text-align:left"><b>Notes</b></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">01</td>
+    <td style="width:10%; text-align:center">Jan 22</td>
+    <td style="width:35%; text-align:left">[Introduction](syllabus.pdf)</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">02</td>
+    <td style="width:10%; text-align:center">Jan 26</td>
+    <td style="width:35%; text-align:left">Linguistics as a Science</td>
+    <td style="width:48%; text-align:left">Reading: Think like a Linguist</td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Jan 29</td>
+    <td style="width:35%; text-align:left">Morphology I</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">03</td>
+    <td style="width:10%; text-align:center">Feb 02</td>
+    <td style="width:35%; text-align:left">Morphology II</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Feb 05</td>
+    <td style="width:35%; text-align:left">Morphology III</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">04</td>
+    <td style="width:10%; text-align:center">Feb 09</td>
+    <td style="width:35%; text-align:left">Morphology IV</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Feb 12</td>
+    <td style="width:35%; text-align:left">Syntax I</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">05</td>
+    <td style="width:10%; text-align:center">Feb 16</td>
+    <td style="width:35%; text-align:left">Syntax II</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Feb 19</td>
+    <td style="width:35%; text-align:left">Syntax III</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">06</td>
+    <td style="width:10%; text-align:center">Feb 23</td>
+    <td style="width:35%; text-align:left">Syntax IV</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Feb 26</td>
+    <td style="width:35%; text-align:left">Review</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">07</td>
+    <td style="width:10%; text-align:center">Mar 02</td>
+    <td style="width:35%; text-align:left">Midterm Review</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Mar 05</td>
+    <td style="width:35%; text-align:left"><b>Midterm</b></td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">08</td>
+    <td style="width:10%; text-align:center">Mar 09</td>
+    <td style="width:35%; text-align:left">Semantics I</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Mar 12</td>
+    <td style="width:35%; text-align:left">Semantics II</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">09</td>
+    <td style="width:10%; text-align:center"></td>
+    <td style="width:35%; text-align:center"><b>Spring Recess</b></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">10</td>
+    <td style="width:10%; text-align:center">Mar 23</td>
+    <td style="width:35%; text-align:left">Semantics III</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Mar 26</td>
+    <td style="width:35%; text-align:left">Semantics IV</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">11</td>
+    <td style="width:10%; text-align:center">Mar 30</td>
+    <td style="width:35%; text-align:left">Pragmatics I</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Apr 02</td>
+    <td style="width:35%; text-align:left">Pragmatics II</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">12</td>
+    <td style="width:10%; text-align:center">Apr 06</td>
+    <td style="width:35%; text-align:left">Phonetics I</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Apr 09</td>
+    <td style="width:35%; text-align:left">Phonetics II</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">13</td>
+    <td style="width:10%; text-align:center">Apr 13</td>
+    <td style="width:35%; text-align:left">Phonetics III</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Apr 16</td>
+    <td style="width:35%; text-align:left">Phonetics IV</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">14</td>
+    <td style="width:10%; text-align:center">Apr 20</td>
+    <td style="width:35%; text-align:left">Phonology I</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Apr 23</td>
+    <td style="width:35%; text-align:left">Phonology II</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">15</td>
+    <td style="width:10%; text-align:center">Apr 27</td>
+    <td style="width:35%; text-align:left">Phonology III</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left"></td>
+    <td style="width:10%; text-align:center">Apr 30</td>
+    <td style="width:35%; text-align:left">Phonology IV</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:2%; text-align:center"></td>
+    <td style="width:3%; text-align:left">16</td>
+    <td style="width:10%; text-align:center">May 04</td>
+    <td style="width:35%; text-align:left">Wrap-up</td>
+    <td style="width:48%; text-align:left"></td>
+    <td style="width:2%; text-align:center"></td>
+  </tr>
+</table>
