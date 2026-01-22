@@ -29,7 +29,7 @@ output:
 ### <span style="color:green">INFJ</span>
 ]
 .pull-right[
-![width=80%](../pic/0905/lakeb.jpg)
+![width=80%](../pic/0122/lakeb.jpg)
 <br><br>
 *Lake Balkhash, space view*
 ]
@@ -37,7 +37,7 @@ output:
 ## You Are All Sherlock Holmes Now
 <br>
 .pull-left[
-<img src="../pic/0905/holmes.png" width="70%">
+<img src="../pic/0122/holmes.png" width="70%">
 ]
 
 .pull-right[
@@ -60,11 +60,11 @@ class: center, middle
 2. Write your **First Name**.**Last Name** (**Preferred Name**) and (**Preferred Pronouns**) on the name tag <br><br>
 3. One by one, introduce yourself to the group, tell others: <br><br>
   - Your name and your preferred name
-  - Your favourite colour<br><br>
-4. When introducing, write down the way you pronounce your name though it might be spelt in another way <br><br>
+  - Your major<br><br>
+4. When introducing, write down the way you pronounce your name though **it might be spelt in another way** <br><br>
 5. One representative from each group write down name pronunciation of everyone in the group on the board<br><br><br><br>
 
-**NOTE**: REMEMBER TO **REMEMBER** OTHERS NAMES AND COLOURS, I WILL ASK! & BE **CREATIVE**!
+**NOTE**: REMEMBER TO **REMEMBER** OTHERS NAMES AND MAJORS, I WILL ASK! & BE **CREATIVE**!
 
 
 
