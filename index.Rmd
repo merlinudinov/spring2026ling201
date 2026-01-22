@@ -57,7 +57,7 @@ ___
     <td style="width:2%; text-align:center"></td>
     <td style="width:3%; text-align:left">01</td>
     <td style="width:10%; text-align:center">Jan 22</td>
-    <td style="width:35%; text-align:left">[Introduction](syllabus.pdf)</td>
+    <td style="width:35%; text-align:left">[Introduction](https://merlinudinov.github.io/spring2026ling201/20260122)</td>
     <td style="width:48%; text-align:left"></td>
     <td style="width:2%; text-align:center"></td>
   </tr>
