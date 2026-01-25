@@ -1,8 +1,8 @@
 ---
-title: "**Introduction**"
+title: "**Linguistics as a Science**"
 author: "Merlin Balkhash"
 institute: "Department of Linguistics, Rutgers University"
-date: "2025/09/05 (updated: `r Sys.Date()`)"
+date: "2026/01/26 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     css: ["rutgers", "rutgers-fonts"]
@@ -14,40 +14,6 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
---- 
-## Course-related Reminders
-.pull-left[
-<br><br>
-**AI policy**: allowed to use **with acknowledgement**
-- You **must** acknowledge your source <br><br>
-- You **must** provide the full and complete AI output/response to your query <br><br>
-- Please use a [university-approved AI source](https://it.rutgers.edu/ai/#ai-assistants) <br><br>
-- Be aware of **AI's errors and hallucinations**
-  - Hi, Prof. G. Please solve $x$ for $2x+1=0$.
-  - Sure thing! We can think it this way. **2** halves become a complete **1**, so $2x=1$...<br><br>
-- Asking "what is **equation**?" is fine, but "solve **this equation**" is not
-]
-.pull-right[
-![width=80%](../pic/0905/halluci.png)
-]
-
----
-## Course-related Reminders
-<br><br>
-.pull-left[
-![width=80%](../pic/0905/homework.png)
-]
-.pull-right[
-<br><br>
-**homework Dropping**
-- Lowest **two** Homework grades will be dropped<br><br>
-- Use it **wisely**<br><br>
-
-**being absent or late/early leaving**
-- absence needs previous notifying via **email**<br><br>
-
-**my own langauge issue**
-]
 
 ---
 ## **Linguistics**

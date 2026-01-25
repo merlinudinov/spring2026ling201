@@ -1,4 +1,5 @@
 ---
+pagetitle: "Introduction to Linguistic Theories"
 output:
   html_document:
     css: styles.css
