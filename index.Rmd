@@ -67,7 +67,7 @@ ___
     <td style="width:2%; text-align:center"></td>
     <td style="width:3%; text-align:left">02</td>
     <td style="width:10%; text-align:center">Jan 26</td>
-    <td style="width:35%; text-align:left">[Linguistics as a Science](https://merlinudinov.github.io/spring2026ling201/20260126)</td>
+    <td style="width:35%; text-align:left">Linguistics as a Science</td>
     <td style="width:48%; text-align:left">Reading: <i>Thinking like a Linguist</i></td>
     <td style="width:2%; text-align:center"></td>
   </tr>
