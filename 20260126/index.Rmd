@@ -15,136 +15,438 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 
+
+
 ---
-## **Linguistics**
+## **Language as a Cognitive Ability**
+<br>
 .pull-left[
+- a native speaker of a language L knows a lot about L:
+  - possible/impossible <span style="color:blue"><b>sounds</b></span> and <span style="color:blue"><b>sound combinations</b></span> of L
+  - possible/impossible <span style="color:green"><b>sentences</b></span> of L
+  - possible/impossible <span style="color:orange"><b>meanings of novel sentences</b></span><br><br>
+- but this knowledge is **unconscious**<br><br>
+- linguists investigate what this **unconscious knowledge** consists of<br><br>
+- in other words, linguistics is **descriptive** and linguists try to “recover the unconsciousness”
+  - describe how people naturally speak
+]
+.pull-right[
+<br>
+<img src="../pic/0126/cog.png" width="100%">
+]
+
+---
+## **Competence and Performance**
+<br>
+.pull-left[
+<img src="../pic/0126/languagelearning.jpg" width="80%">
+]
+.pull-right[
+- we are concerned with what a person knows (**competence**)
+  - the principles and rules they follow (even unconsciously)
+  - these rules underlie speakers’ <span style="color:green"><b>ability to form and understand</b></span> an infinite number of novel sentences
+  - <span style="color:blue"><b>abstract</b></span>, <span style="color:blue"><b>internal</b></span> knowledge of language<br><br>
+- this is different from how a person actually ends up putting this knowledge to use (**performance**)
+  - you still have your language competence when you are sleeping, in absence of any performance
+  - you might occasionally misspeak a word, but that does not mean your competence is impaired
+]
+
+---
+## **Competence and Performance**
+<br>
+.pull-left[
+<img src="../pic/0126/languagelearning.jpg" width="80%">
+]
+.pull-right[
+- we are concerned with what a person knows (**competence**)
+  - the principles and rules they follow (even unconsciously)
+  - these rules underlie speakers’ <span style="color:green"><b>ability to form and understand</b></span> an infinite number of novel sentences
+  - <span style="color:blue"><b>abstract</b></span>, <span style="color:blue"><b>internal</b></span> knowledge of language<br><br>
+- *I ain't got no time.*
+  - **good**, we understand, accept and use it
+  - **bad**, double negation is not allowed <br><br>
+
+- a sentence can be both **good** and **bad** at the same time?
+  - **prescriptivism** vs. **descriptivism** <br><br>
+]
+
+---
+class:middle, center
+<div style="
+  background:#CC0033;
+  color:white;
+  font-size:48px;
+  font-weight:600;
+  padding:40px 0;
+  width:100%;
+  margin:200px auto;
+  text-align:center;
+">
+Prescriptive vs. Descriptive
+</div>
+
+---
+## **Prescriptive vs. Descriptive**
+<br>
+.pull-left[
+- we are concerned with what a person knows (**competence**)
+  - the principles and **rules** they follow (even unconsciously)
+  - these **rules** underlie speakers’ <span style="color:green"><b>ability to form and understand</b></span> an infinite number of novel sentences<br><br>
+- be cautious when we talk about **RULES**<br><br>
+- often the grammar rules we are taught at school are **prescriptive** rules of “good grammar”
+  - rules about what is appropriate/correct way to use the language
+]
+.pull-right[
+<img src="../pic/0126/grammar.jpg" width="75%">
+]
+
+---
+## **Prescriptive Rules**
+<br>
+.pull-left[
+- **prescriptive rules**: rules that tell people how they <span style="color:green"><b>should</b></span> and <span style="color:green"><b>shouldn't</b></span> speak (or write)
+  - stipulates **right** vs <span style="color:blue"><b>wrong</b></span> 
+  - usually require some effort to learn
+  - often broken<br><br>
+
+- <b><i>ex. 1</i></b>: Don’t end a sentence with a preposition!
+  - <i>prepositions are words you don’t end a sentence **with**</i>.
+- <b><i>ex. 2</i></b>: Don’t split infinitives!
+  - <i>**To** boldly **go** where no one has gone</i>.
+- <b><i>ex. 3</i></b>: Don't use double negatives!
+  - <i>I **ain't** got **no** satisfaction</i>.<br><br>
+
+- prescriptive rules **can run counter** to our native competence
+]
+.pull-right[
+<img src="../pic/0126/jury.jpg" width="85%">
+]
+
+---
+## **Prescriptive Rules vs. Descriptive Rules**
+<br>
+.pull-left[<img src="../pic/0126/double.jpg" width="75%">]
+.pull-right[
+- **prescriptive rules**: rules that tell people how they <span style="color:green"><b>should</b></span> and <span style="color:green"><b>shouldn't</b></span> speak (or write)
+  - stipulates **right** vs <span style="color:blue"><b>wrong</b></span> 
+  - usually require some effort to learn
+  - often broken<br><br>
+- **descriptive rules**: rules that objectively describe how people use their language
+  - often learned and used tacitly<br><br>
+- these are the ‘rules’ that linguists study
+  - the goal of linguistics is to <span style="color:orange"><b>develop a theory</b></span> that correctly models <span style="color:purple"><b>native speaker’s knowledge</b></span> of their language
+  - only studying on **descriptive rules** can we maintain a <span style="color:green"><b>neutral</b></span> and <span style="color:green"><b>scientific</b></span> point of view
+  - and it shows **respects**
+]
+  
+---
+class: middle,center
+## **How do linguists come up with the descriptive rules?**
 <br><br>
+how do they come up with the generalizations that native speakers implicitly know?
+
+how do linguists investigate ‘the cognitive ability of language’?<br><br>
+
 --
-What is **Linguistics**?
-- Literature Studies, Language Learning...?
+## **scientific methods**
 
-<br><br>
-Linguistics is the **scientific** study of language
-
-A primary goal of linguistics is to figure out what is in people’s **mental grammar**
+---
+## **Linguistic Analysis (One of Scientific Methods)**
+<br>
+.pull-left[<br>
+- Linguistics is the **scientific** study of languages<br><br>
+- science uses the scientific method to test hypotheses about how natural phenomena (in our case, language) work:<br><br>
+1. make **empirical observations** and form generalizations (descriptive rules)
+2. form **hypotheses** which make **falsifiable predictions**
+3. **test** these predictions by collecting further data
+4. **revise** hypothesis based on gathered data
 ]
 .pull-right[
-![width=80%](../pic/0905/ling.png)
+<br><br>
+<img src="../pic/0126/scientific.png" width="100%">
+]
+
+
+---
+## **Linguistic Analysis (One of Scientific Methods)**
+<br>
+.pull-left[<br>
+- Linguistics is the **scientific** study of languages<br><br>
+- science uses the scientific method to test hypotheses about how natural phenomena (in our case, language) work:<br><br>
+1. make **empirical observations** and form generalizations (descriptive rules)
+2. form **hypotheses** which make **falsifiable predictions**
+3. **test** these predictions by collecting further data
+4. **revise** hypothesis based on gathered data
+]
+.pull-right[<br>
+<b>a simple example</b><br><br>
+1. I found everyone around me is a linguist (**observation**)<br><br>
+2. I thought that every Rutgers student is a linguist (**hypothesis**)<br><br>
+3. I went out and asked every one (**experiment**)<br><br>
+4. I found a Rutgers student who is actually mathematician (**reject**)<br><br>
+5. I have a new hypothesis! (**repeat**)
 ]
 
 ---
-## **Mental Grammar**
-.pull-left[
-### Grammar is in our **MIND**! 
-- **cognitive** and **mental**.
+class:middle, center
+<div style="
+  background:#CC0033;
+  color:white;
+  font-size:48px;
+  font-weight:600;
+  padding:40px 0;
+  width:100%;
+  margin:200px auto;
+  text-align:center;
+">
+Toy Example Applying Scientific Method <br><br>
+<span style="color:black">how does CONTRACTION work in English</span>
+</div>
 
-<br>
-### a paradox
-- I ain't got no time.
-
-- **good**, we understand, accept and use it.
-- **bad**, double negation is not allowed.
-<br><br>
-
-- So how can the sentence both be **good** and **bad** at the same time?
-<br><br>
-
-- **PRESCRIPTIVISM** vs. **DESCRIPTIVISM**
-]
--.pull-right[
-![height=80%](../pic/0905/double.jpg)
-]
 ---
-## **Prescriptivism**
+## **Step 1: Observation**
 <br>
 .pull-left[
-- there is only one "**correct**" way to talk <br><br>
-- it tells people what they **should** and **shouldn't** do (it prescribes languages) <br><br>
-  - **Don't** use double negatives.
-  - **Don't** split your infinitives.
-  - **Ain't** ain't a word.
-  - **Don't** end sentences with a preposition.<br><br>
-- English speakers break these rules all the time
-<br><br>
-  - I **can’t** get **no** satisfaction.
-  - **To** boldly **go** where no one has gone.
-  - If it **ain’t** broke, don’t fix it.
-  - What is she up **to**?
-  ]
+- in casual spoken English, the verb be may be used in either its **full or reduced (contracted) forms**:<br><br>
+  - (Where is the train?)
+  - <i>**It is** at Penn Station</i>.
+  - <i><span style="color:green"><b>It’s</b></span> at Penn Station</i>.<br><br>
+  - (Pointing at Merlin)
+  - <i>**He is** the best candidate for the job</i>.
+  - <i><span style="color:green"><b>He’s</b></span> the best candidate for the job</i>.<br><br>
+  - <i>**We are** happy when we are together</i>.
+  - <i><span style="color:green"><b>We’re</b></span> happy when we are together</i>.
+]
 .pull-right[
-![width=80%](../pic/0905/alot.jpg)
-]
----
-## **Descriptivism**
-<br>
-.pull-left[
-![width=80%](../pic/0905/native.jpeg)
-]
-.pull-right[
-- An alternative approach to **describe** how people **REALLY** talk daily without judgment <br><br>
-- Linguists take a **descriptive** approach<br><br>
-- **Because**:<br><br>
-  - it helps maintain a **neutral**, **scientific** point of view.
-  - we won't get very far by focusing on prescriptive rules.
-  - It **respects** the language patterns of every individual and community as completely **legitimate** and **valid** ways to talk.
+<img src="../pic/0126/safescience.jpg" width="100%">
 ]
 
 ---
-## **grammatical vs. ungrammatical**
+### **Step 2: Generalisation**
 <br>
 .pull-left[
-- **Grammatical**: Language that would be **said and understood** by a native speaker, and would sound **natural** to a native speaker<br><br>
-- **Ungrammatical**: Language that would **NOT** be said or understood by a native speaker<br><br>
-  - $*$ John has finishing his homework.
-  - $*$ This apples is delicious.<br><br>
-- Speakers may disagree on what is grammatical based on their own mental grammar <br><br>
+- an English speaker knows that the reduced form of **BE** may appear wherever its full form appears
+<br><br><br><br><br><br><br><br><br>
+
+### **Step 3: Initial Hypothesis**
+<br>
+- contraction is <span style="color:green"><b>fully optional</b></span>
+]
+.pull-right[
+<img src="../pic/0126/safescience.jpg" width="100%">
+]
+
+---
+## **Step 4: Test Hypothesis**
+<br>
+.pull-left[
+- gather more data/observations to test the **Initial Hypothesis** <br><br>
+  - (two people are waiting for the train. One says to the other...)
+  - <i>I wonder where **it is**</i>.
+  - \* <i>I wonder where <span style="color:green"><b>it's</b></span>.<br><br>
+  - <i>Everyone thinks that Merlin is the best candidate for the job and in fact **he is**</i>.
+  - \* <i>Everyone thinks that Merlin is the best candidate for the job and in fact <span style="color:green"><b>he's</b></span></i>.
+]
+.pull-right[
+<img src="../pic/0126/safescience.jpg" width="100%">
+]
+
+---
+## **Step 5: Revise Hypothesis**
+<br>
+.pull-left[
+- ~~contraction is <span style="color:green"><b>fully optional</b></span>~~ <br><br>
+- a reduced form of be may appear wherever its full form may appear, **unless it occurs at the very end of a sentence** <br><br>
+  - (two people are waiting for the train. One says to the other...)
+  - <i>I wonder where **it is**</i>.
+  - \* <i>I wonder where <span style="color:green"><b>it's</b></span>.<br><br>
+  - <i>Everyone thinks that Merlin is the best candidate for the job and in fact **he is**</i>.
+  - \* <i>Everyone thinks that Merlin is the best candidate for the job and in fact <span style="color:green"><b>he's</b></span></i>.
+]
+.pull-right[
+<img src="../pic/0126/safescience.jpg" width="100%">
+]
+
+
+---
+## **Step 6: Go Back to Data**
+<br>
+.pull-left[
+- a reduced form of be may appear wherever its full form may appear, **unless it occurs at the very end of a sentence** <br><br>
+
+- but still...
+  - <i>They will never be as happy as we are when **we are** together</i>.
+  - \* <i>They will never be as happy as <span style="color:green"><b>we're</b></span> when we are together</i>.<br><br>
+  - <i>I wonder where **it is** right now</i>.
+  - \* <i>I wonder where <span style="color:green"><b>it's</b></span> right now</i>.
+]
+.pull-right[
+<img src="../pic/0126/safescience.jpg" width="100%">
+]
+
+  
+---
+## **From our Toy Example...**
+<br>
+.pull-left[
+<img src="../pic/0126/rules.jpeg" width="100%">
+]
+.pull-right[
+- our hypothesis is **falsified** and it’s important that the hypothesis is <span style="color:green"><b>falsifiable</b></span><br><br>
+- we are **predicting** something at least<br><br>
+- English speakers know a rather **sophisticated** rule that governs the use of reduced forms<br><br>
+- this rule is just one small piece of an immensely rich body of knowledge that English speakers acquire without any explicit instruction, and which remains **below the level of conscious awareness**<br><br>
+- coming up with a descriptive rule that correctly depict linguistics phenomenon is **HARD**
+]
+
+---
+## **Exercise: Applying Scientific Methods on Agta**
+<br>
+.pull-left[
+<div style="text-align:center">
+<img src="../pic/0126/agta1.png" width="70%">
+</div>
+]
+.pull-right[<br><br><br><img src="../pic/0126/agta2.png" width="100%">]
+
+---
+## **Exercise: Applying Scientific Methods on Agta**
+<br>
+Consider the following word forms in Agta. In this language, there is a process to form **diminutives**. Based on the words, how might we describe diminutive formation in Agta? 
+<br><br>
+.pull-left[
+.pull-left[
+wer<br><br>
+**balabahuy**<br><br>
+talobag<br><br>
+**palapirak**<br><br>
+bag<br><br>
+bahuy<br><br>
+**walawer**<br><br>
+**balabag**
+]
+.pull-right[
+'creek'<br><br>
+'little pig'<br><br>
+'beetle'<br><br>
+'little mony'<br><br>
+'loincloth'<br><br>
+'pig'<br><br>
+'little creek'<br><br>
+'little loincloth'
+]
+]
+
+--
+
+.pull-right[
+.pull-left[
+wer<br><br>
+bahuy<br><br>
+bag<br><br><br>
+<span style="color:green"><b>?</b></span>
+]
+.pull-right[
+**wala**wer<br><br>
+**bala**bahuy<br><br>
+**bala**bag<br><br><br>
+**pala**pirak
+]
+]
+
+---
+## **Exercise: Applying Scientific Methods on Agta**
+<br>
+Consider the following word forms in Agta. In this language, there is a process to form **diminutives**. Based on the words, how might we describe diminutive formation in Agta? 
+<br><br>
+.pull-left[
+.pull-left[
+wer<br><br>
+**balabahuy**<br><br>
+talobag<br><br>
+**palapirak**<br><br>
+bag<br><br>
+bahuy<br><br>
+**walawer**<br><br>
+**balabag**
+]
+.pull-right[
+'creek'<br><br>
+'little pig'<br><br>
+'beetle'<br><br>
+'little mony'<br><br>
+'loincloth'<br><br>
+'pig'<br><br>
+'little creek'<br><br>
+'little loincloth'
+]
+]
+
+--
+
+.pull-right[
+- to form a diminutive, attach **[Xala]** at the beginning of the word, where **X** is the same sound as the **initial sound** of the word<br><br>
+- what do we predict the diminutive of ***talobag*** ‘beetle’ to be?<br><br>
+- how might we test to see if our **prediction** is right?
+]
+
+---
+## **Descriptive Rules are Often Tacit**
+<br>
+.pull-left[
+<div style="text-align:center">
+<img src="../pic/0126/tacit.jpg" width="80%">
+</div>
+]
+.pull-right[
+- the scientific method can be used to uncover descriptive rules of languages we may be **unfamiliar with**<br><br>
+- we can also use it to uncover descriptive rules of a language we ourselves speak<br><br>
+  - even though a native speaker knows a lot about their language, **the descriptive rules still need to be uncovered through the scientific method**<br><br>
+  - this is because descriptive rules are usually **tacit**: we are not consciously aware we are using them
+]
+  
+---
+## **Grammatical vs. Ungrammatical**
+<br>
+.pull-left[
+- **grammatical**: language that would be **said and understood** by a native speaker, and would sound **natural** to a native speaker<br><br>
+- **ungrammatical**: language that would **NOT** be said or understood by a native speaker<br><br>
+  - $*$ <i>John has finishing his homework</i>.
+  - $*$ <i>This apples is delicious</i>.<br><br>
+- speakers may disagree on what is grammatical based on their own mental grammar <br><br>
 - language can be **non-standard** but still **grammatical**<br><br>
-  - How about them apples!
-  - I don't want none!
+  - <i>How about them apples!</i>
+  - <i>I don't want none!</i>
 ]
 .pull-right[
-![width=80%](../pic/0905/meow.jpeg)
+<br><br><br>
+<img src="../pic/0126/meow.jpeg" width="80%">
 ]
 
 ---
-## **standard** vs. **non-standard** language
+## **Standard vs. Non-standard Language**
 <br>
 .pull-left[
-- Since we take **descriptivism**, we need to **avoid** judgmental terms <br><br>
+- since we take **descriptivism**, we need to **avoid** judgmental terms <br><br>
   - ~~bad grammar~~
   - ~~incorrect language~~
   - ~~broken English~~
 <br><br>
 - **standard language**: the variety taught in schools and used in **formal and official settings** like the workplace, education, government, newsmedia, textbooks, etc.
 <br><br>
-- **non-standard language**: other varieties used in more colloquial settings
+- **non-standard language**: other varieties used in more colloquial settings <br><br>
+- the standard variety is often a bit artificial and no one speaks that way all the time
 ]
 
 .pull-right[
-![width=80%](../pic/0905/bad.png)
-
-- The standard variety is often a bit artificial and no one speaks that way all the time
-- People may disagree on what counts as standard or non-standard
-- Non-standard language may be **stigmatized** in some cases, but - it is just as legitimate and expressive as standard language. There is nothing inherently "better" or "worse" about any variety or language
+<img src="../pic/0126/ignor.jpeg" width="75%">
+<br><br>
+- people may disagree on what counts as standard or non-standard
+- non-standard language may be **stigmatized** in some cases, but - it is just as legitimate and expressive as standard language. There is nothing inherently "better" or "worse" about any variety or language
 ]
+
 ---
-## (un)grammatical & (non-)standard
-<br>
-.pull-left[
-In groups, **invent three English sentences**: <br><br>
-1. A grammatical, standard English sentence.
-2. A grammatical, non-standard English sentence.
-3. An ungrammatical English sentence.
-
-<br>
-Pick **one** of your group's sentences to read aloud for the rest of the class. The rest of the class will have to figure out which one it is.
-]
-
-.pull-right[
-![width=80%](../pic/0905/ignor.jpeg)
-]
----
-## Rules are **variable**
+## **Rules are Variable**
 <br>
 .pull-left[
 - We've seen that language follows mental rules, and that non-standard varieties also have rules<br><br>
@@ -171,7 +473,7 @@ Each one of these sentences is used in one or more varieties of American English
 ]
 
 ---
-## Subfields of Linguistics
+## **Subfields of Linguistics**
 <br>
 .pull-left[
 Major subfields of linguistics are:<br><br>
@@ -183,13 +485,13 @@ Major subfields of linguistics are:<br><br>
 - **Pragmatics** – implied meaning<br><br>
 ]
 .pull-right[
-![width=80%](../pic/0905/colour.jpg)
+<img src="../pic/0126/colour.jpg" width="80%">
 <br><br>
 *Colorless green ideas sleep furiously*.
 ]
 
 ---
-## Subfields of Linguistics
+## **Subfields of Linguistics**
 <br>
 .pull-left[
 Major subfields of linguistics are:<br><br>
@@ -214,44 +516,63 @@ Other subfields:<br><br>
 ]
 
 ---
-## Linguistics as A **Science**
-<br>
 .pull-left[
-- Linguistics is the **scientific** study of langauge <br><br>
-- But what does it mean to say that it's **science**?  <br><br>
-- What is a science?<br><br>
-![width=80%](../pic/0905/linguist.png)
+## **Two Truths and A Lie**
 ]
 .pull-right[
-Science uses the **scientific method** to test hypotheses about how natural phenomena (in our case, language) work:
-1. Develop a **hypothesis** grounded in personal observations, theory, and previous research<br><br>
-2. **Design an experiment** to collect real-world (empirical) data to test your hypothesis<br><br>
-3. Run your experiment, **collect** your data<br><br>
-4. **Analyse your data** - is your hypothesis true or false?<br><br>
-5. Based on your results, update your theories, develop a new hypothesis, and **repeat**!
+<div style="text-align:center">
+<img src="../pic/0126/truthlie.jpg" width="40%">
+</div>
 ]
----
-## Linguistics as A **Science**
 <br>
-.pull-left[
-1. I found everyone around me is a linguist (**observation**)<br><br>
-2. I thought that every Rutgers student is a linguist (**hypothesis**)<br><br>
-3. I went out and asked every one (**experiment**)<br><br>
-4. I found a Rutgers student who is actually mathematician (**reject**)<br><br>
-5. I have a new hypothesis! (**repeat**)
-]
+#### **group I**
+1. you can do linguistic experiments on yourself
+2. an adult can learn a foreign language, but never to a native level
+3. there is one and only sign language in the world<br><br>
 
-.pull-right[
-Come up with your own experiment!
-- Most English permits only 1 modal/clause: I <u>*might*</u> eat. I <u>*could*</u> eat.<br><br>
-- Southern American English permits 2: I <u>*might*</u> <u>*could*</u> eat.
-Come up with a hypothesis – a statement that could be true or false – about English modals. (Ideas: Where specifically? What about other modals: can, may, should, oughta? Does anyone use more than 2?) <br><br>
-- What kind of data could you collect to prove or disprove your hypothesis? How could you design an experiment to collect that data?
+--
+
+#### **group II**
+1. children need to be taught language formally in order to learn it
+2. parents don’t need to correct their children’s speech errors in order for them to acquire a language
+3. English originated in what is now northwest Germany and the Netherlands<br><br>
+
+--
+
+#### **group III**
+1. native speakers of some languages might have difficulties hearing certain sounds of other languages not present in their native language
+2. linguists speak a lot of languages
+3. Linguistics focuses specifically on studying humans (rather than studying animals or animal/humans comparisons)
+
+---
+.pull-left[
+## **Two Truths and A Lie**
 ]
+.pull-right[
+<div style="text-align:center">
+<img src="../pic/0126/truthlie.jpg" width="40%">
+</div>
+]
+<br>
+#### **group I**
+1. you can do linguistic experiments on yourself ✅
+2. an adult can learn a foreign language, but never to a native level ✅
+3. there is one and only sign language in the world ❌<br><br>
+
+#### **group II**
+1. children need to be taught language formally in order to learn it ❌
+2. parents don’t need to correct their children’s speech errors in order for them to acquire a language ✅
+3. English originated in what is now northwest Germany and the Netherlands ✅<br><br>
+
+#### **group III**
+1. native speakers of some languages might have difficulties hearing certain sounds of other languages not present in their native language ✅
+2. linguists speak a lot of languages ❌
+3. Linguistics focuses specifically on studying humans (rather than studying animals or animal/humans comparisons) ✅
 
 ---
 class: center, middle
-**Intro Survey** due Sunday<br><br>
-**Morphology reading** by next Wednesday
-<br><br><br>
+**no homework** is due this week<br><br>
+<span style="color:green"><b>readings</b></span> Sections 4.0, 4.1 and 4.2 of Chapter 4: Morphology from <i>Language Files</i><br><br>
+<img src="../pic/0126/fine.jpeg" width="55%">
+<br><br>
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).

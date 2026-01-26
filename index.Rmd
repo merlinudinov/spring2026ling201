@@ -67,8 +67,8 @@ ___
     <td style="width:2%; text-align:center"></td>
     <td style="width:3%; text-align:left">02</td>
     <td style="width:10%; text-align:center">Jan 26</td>
-    <td style="width:35%; text-align:left">Linguistics as a Science</td>
-    <td style="width:48%; text-align:left">Reading: <i>Thinking like a Linguist</i></td>
+    <td style="width:35%; text-align:left">[Linguistics as a Science](https://merlinudinov.github.io/spring2026ling201/20260126)</td>
+    <td style="width:48%; text-align:left"><b><u>Reading</u></b>: <i>Thinking like a Linguist</i></td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -77,7 +77,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Jan 29</td>
     <td style="width:35%; text-align:left">Morphology I</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Reading</u></b>: Sections 4.0, 4.1 and 4.2 of Chapter 4: Morphology from <i>Language Files</i></td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -95,7 +95,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Feb 05</td>
     <td style="width:35%; text-align:left">Morphology III</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Reading</u></b>: Sections 4.3, 4.4 and 4.5 of Chapter 4: Morphology from <i>Language Files</i></td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -113,7 +113,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Feb 12</td>
     <td style="width:35%; text-align:left">Syntax I</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework I: Morphology</u></b> due on Feb 15</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -131,7 +131,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Feb 19</td>
     <td style="width:35%; text-align:left">Syntax III</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework II: Syntax I</u></b> due on Feb 22</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -149,7 +149,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Feb 26</td>
     <td style="width:35%; text-align:left">Review</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework III: Syntax II</u></b> due on Mar 01</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -210,7 +210,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Mar 26</td>
     <td style="width:35%; text-align:left">Semantics IV</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework IV: Semantics</u></b> due on Mar 29</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -228,7 +228,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Apr 02</td>
     <td style="width:35%; text-align:left">Pragmatics II</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework V: Pragmatics</u></b> due on Apr 05</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -264,7 +264,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Apr 16</td>
     <td style="width:35%; text-align:left">Phonetics IV</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework VI: Phonetics</u></b> due on Apr 19</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -282,7 +282,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Apr 23</td>
     <td style="width:35%; text-align:left">Phonology II</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework VII: Phonology I</u></b> due on Apr 26</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
@@ -300,7 +300,7 @@ ___
     <td style="width:3%; text-align:left"></td>
     <td style="width:10%; text-align:center">Apr 30</td>
     <td style="width:35%; text-align:left">Phonology IV</td>
-    <td style="width:48%; text-align:left"></td>
+    <td style="width:48%; text-align:left"><b><u>Homework VIII: Phonology II</u></b> due on May 03</td>
     <td style="width:2%; text-align:center"></td>
   </tr>
   
