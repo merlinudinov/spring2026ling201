@@ -1,0 +1,1196 @@
+---
+title: "**Morphology I**"
+author: "Merlin Balkhash"
+institute: "Department of Linguistics, Rutgers University"
+date: "2026/01/29 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["rutgers", "rutgers-fonts"]
+    lib_dir: libs
+    includes:
+      after_body: [nav.html, header.html]
+    nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+
+---
+class: center, middle
+## Please pick up your **name card** from the front
+
+---
+## **Previously on 201: What is Linguistics**
+<br>
+.pull-left[
+- Linguistics is the <u><span style="color:white"><b>scientific</b></span></u> study of language
+<br><br>
+- linguists use the scientific method to uncover the <u><span style="color:white"><b>combetence</b></span></u> or knowledge of language users
+<br><br>
+- while there are both prescriptive and descriptive rules relating to language, linguists are interested in uncovering the <u><span style="color:white"><b>describtive</b></span></u> rules of a language
+<br><br>
+- often times these rules are <u><span style="color:white"><b>tacit</b></span></u>, hence speakers are not aware that they are following them
+<br><br>
+- we can use the scientific method to uncover rules of languages we ourselves speak or languages we are unfamiliar with
+]
+.pull-right[
+<br><br>
+<img src="../pic/0129/image.png" width="100%">
+]
+
+---
+## **Previously on 201: What is Linguistics**
+<br>
+.pull-left[
+- Linguistics is the <u><span style="color:green"><b>scientific</b></span></u> study of language
+<br><br>
+- linguists use the scientific method to uncover the <u><span style="color:green"><b>competence</b></span></u> or knowledge of language users
+<br><br>
+- while there are both prescriptive and descriptive rules relating to language, linguists are interested in uncovering the <u><span style="color:green"><b>descriptive</b></span></u> rules of a language
+<br><br>
+- often times these rules are <u><span style="color:green"><b>tacit</b></span></u>, hence speakers are not aware that they are following them
+<br><br>
+- we can use the scientific method to uncover rules of languages we ourselves speak or languages we are unfamiliar with
+]
+.pull-right[
+<br><br>
+<img src="../pic/0129/image.png" width="100%">
+]
+
+---
+## **Different Parts of Linguistic Competence**
+<br>
+.pull-left[<img src="../pic/0129/subfield.jpg" width="80%">]
+.pull-right[
+- Linguistics is the scientific study of human languages<br><br>
+  - <u>**Morphology studies word structure**</u><br><br>
+  - **Syntax** studies <span style="color:green"><b>sentence</b></span> structure<br><br>
+  - **Semantics** studies <span style="color:green"><b>literal meaning</b></span> of words and sentences<br><br>
+  - **Pragmatics** studies <span style="color:green"><b>contextual meaning</b></span> of words and sentences<br><br>
+  - **Phonetics** studies speech <span style="color:green"><b>sounds</b></span><br><br>
+  - **Phonology** studies <span style="color:green"><b>sound patterns</b></span>
+]
+
+---
+class:middle, center
+<div style="
+  background:#CC0033;
+  color:white;
+  font-size:48px;
+  font-weight:600;
+  padding:40px 0;
+  width:100%;
+  margin:200px auto;
+  text-align:center;
+">
+Morphology
+</div>
+
+---
+## **What are Words**
+<br>
+As we said, Morphology studies **word structure**, but what are words?
+<br><br>
+<img src="../pic/0129/word1.png" width="48%">
+<img src="../pic/0129/word2.png" width="48%">
+<br><br>
+<div style="text-align:center;">
+  <a href="https://www.merriam-webster.com/dictionary/word"><span style="color:#CC0033">definition of '<b>word</b>' from <i>Merriam Webster Dictionary</i></span></a>
+</div>
+
+---
+## **What are Words**
+<div style="text-align:center;">
+<h3><b><span style="color:#CC0033">dog</span></b></h3>
+<h3><b><span style="color:green">[dɑɡ] (Amer.)</span>  / <span style="color:blue">[dɔg] (Brit.)</span></b></h3>
+<br><br>
+<img src="../pic/0129/dogs.png" width="60%">
+</div>
+
+---
+## **Some Relations are Arbitrary**
+<br>
+.pull-left[
+- as pointed out by **Ferdinand de Saussure** the relationship between sound/sign and meaning appears to be **arbitrary**<br><br>
+- the fact that the sound [dɑg] has a meaning ‘a domesticated carnivorous mammal’ <u>does NOT appear to rely on</u> special properties of those sounds in that order<br><br><br>
+- what is ‘a domesticated carnivorous mammal’ in other languages?
+]
+.pull-right[
+<img src="../pic/0129/saussure.png" width="65%">
+<br><br>
+*Ferdinand Mongin de Saussure* (1857-1913)
+]
+ 
+---
+## **Looking at Different Languages**
+<br>
+.pull-left[
+- sound-meaning arbitrariness becomes clear when we look at **other languages**<br><br>
+- the <span style="color:green"><b>same meaning</b></span> associated with <span style="color:blue"><b>different sounds</b></span><br><br>
+  - inu (Japanese)
+  - gae (Korean)
+  - aso (Tagalog)
+  - hundur (Icelandic)
+  - Hund (German)...<br><br>
+- or the <span style="color:blue"><b>same sound</b></span> associated with <span style="color:green"><b>different meaning</b></span> <br><br>
+  - [q<sup>h</sup>urt] in **Kazakh**<br>
+  ‘insect’ <br>
+  ‘a type of food made from milk’
+]
+.pull-right[
+<div style="text-align:center;">
+<img src="../pic/0129/inuyasha.png" width="75%">
+<br>
+<i>Inuyasha</i>
+</div>
+]
+
+---
+class:middle, center
+<div style="
+  background:#CC0033;
+  color:white;
+  font-size:48px;
+  font-weight:600;
+  padding:40px 0;
+  width:100%;
+  margin:200px auto;
+  text-align:center;
+">
+How are words stored in our mind?
+</div>
+
+---
+## **Mental Dictionary (Lexicon)**
+<br>
+- part of language learning then is learning and memorizing these **meaning-sound pairs** and storing them in your **mental dictionary** (aka **lexicon**)<br><br>
+- each item in the lexicon is a **lexical entry**<br><br>
+- we know that part of each lexical entry is its *phonological representation* (written in IPA) and its *semantic representation*<br><br>
+<table style="width:50%; border-collapse:collapse;">
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;">label</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'dog'</span></td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'teach'</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>phonological representation</b></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">/dɑg/</td>
+    <td style="width:15%; text-align:center; border:1px solid black;">/tiːtʃ/</td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>semantic representation</b></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">{x: x is a dog}</td>
+    <td style="width:15%; text-align:center; border:1px solid black;">{&lt;x, y&gt;: x teaches y}</td>
+  </tr>
+</table>
+
+---
+## **Compositionality**
+<br>
+.pull-left[
+- **NOT** all pairs of sounds and meanings are arbitrary (actually most aren't)<br><br>
+- the following string of phones (sounds) has a **predictable** meaning<br><br>
+- and is almost certainly **NOT** stored as a single lexical entry<br><br>
+  - [mɜːlɪns titʃər wɑkt kwɪkli]<br>
+  'Merlin’s teacher walked quickly.'<br><br>
+- the meaning of this string is predictable from the meanings of its parts<br><br>
+- it is **COMPOSITIONAL**
+]
+.pull-right[
+<br><br>
+<img src="../pic/0129/compositional.jpg" width="90%">
+<br><br>
+<div style="text-align:center">
+'*compositionality*'
+</div>
+]
+
+---
+## **Compositionality**
+<br>
+.pull-left[
+  - [<span style="color:green"><b>mɜːlɪns</b></span> <span style="color:blue"><b>titʃər</b></span> <span style="color:orange"><b>wɑkt</b></span> <span style="color:#CC0033"><b>kwɪkli</b></span>]<br>
+  '<span style="color:green"><b>Merlin’s</b></span> <span style="color:blue"><b>teacher</b></span> <span style="color:orange"><b>walked</b></span> <span style="color:#CC0033"><b>quickly</b></span>.'<br><br>
+
+How is each word in the sentence **compositional**?
+]
+
+.pull-right[
+<br><br>
+<img src="../pic/0129/compositional.jpg" width="90%">
+<br><br>
+<div style="text-align:center">
+'*compositionality*'
+</div>
+]
+
+---
+## **Compositionality**
+<br>
+.pull-left[
+  - [<span style="color:green"><b>mɜːlɪns</b></span> <span style="color:blue"><b>titʃər</b></span> <span style="color:orange"><b>wɑkt</b></span> <span style="color:#CC0033"><b>kwɪkli</b></span>]<br>
+  '<span style="color:green"><b>Merlin’s</b></span> <span style="color:blue"><b>teacher</b></span> <span style="color:orange"><b>walked</b></span> <span style="color:#CC0033"><b>quickly</b></span>.'<br><br>
+
+How is each word in the sentence **compositional**?<br><br>
+
+- words like <span style="color:green"><b>Merlin’s</b></span> and <span style="color:blue"><b>teacher</b></span> **CAN** be broken down 
+- and their meaning seems to contain the meaning of the pieces<br><br>
+- while a word like **dog**, **CANNOT** be broken down into smaller meaningful units 
+- it could be broken down into smaller sounds, but those sounds do not correspond to a meaning on their own
+]
+
+.pull-right[
+<span style="color:green"><b>Merlin’s</b></span> and <span style="color:blue"><b>teacher</b></span>
+  - morphologically complex words<br>
+  
+**dog** and **teach**
+  - morphologically simple words<br><br>
+<img src="../pic/0129/compositional.jpg" width="90%">
+]
+
+---
+class: middle, center
+# **How many meaningful units?**
+<br><br>
+### teacher <span style="color:white"><b>teach-er</b></span>
+<br><br>
+###presidential <span style="color:white"><b>president-ial</b></span>
+<br><br>
+###unlockable <span style="color:white"><b>un-lock-able</b></span>
+<br><br>
+###antidisetablishmentarianism<br><span style="color:white"><b>anti-dis-establish-ment-ar(y)-ian-ism</b></span>
+ 
+---
+class: middle, center
+# **How many meaningful units?**
+<br><br>
+### teacher <span style="color:#CC0033"><b>teach-er</b></span>
+<br><br>
+###presidential <span style="color:green"><b>president-ial</b></span>
+<br><br>
+###unlockable <span style="color:orange"><b>un-lock-able</b></span>
+<br><br>
+###antidisetablishmentarianism<br><span style="color:blue"><b>anti-dis-establish-ment-ar(y)-ian-ism</b></span>
+
+
+---
+class: middle, center
+### so we see systematic **PATTERNS**<br>in the meanings of complex words
+<br><br>
+  hospital, hospital**ise**, hospital**isa**<span style="color:blue"><b>tion</b></span><br><br>
+  refute, refut**able**, <span style="color:green"><b>ir</b></span>refut**able**, irrefut**abl**<span style="color:blue"><b>ity</b></span>
+
+---
+## **Trickier Cases**
+<br>
+.pull-left[
+<br><br>
+- is the word **spot** complex because it contains the same sounds as the word **pot**? Why or why not?<br><br><br><br>
+- is the word **chef** complex because it appears to contain the meaning of the word **cook**? The pair **cook**-**chef** appears to be the same relation that holds between **teach**-**teacher** 
+]
+.pull-right[
+<br><br><br>
+<img src="../pic/0129/spotpot.png" width="100%">
+]
+
+---
+## **Zooming in on *-er***
+<br>
+.pull-left[
+- what do these words all have **in common** in terms of their meaning? 
+<br><br>
+  - teach**er**
+  - driv**er**
+  - lectur**er**
+  - read**er**
+  - soften**er**
+  - whiten**er**
+  - blend**er**
+  - moderniz**er**<br><br>
+- -er seems to have a **shared and stable meaning**, something like '<i>one who does X action</i>', where X is a **verb**
+]
+.pull-right[
+<br><br><br>
+<img src="../pic/0129/suffixish.jpeg" width="100%">
+]
+
+---
+## **Zooming in on *-er***
+<br>
+.pull-left[
+<br><br>
+- *-er* is used **productively**<br><br>
+- it can be used to create novel words<br><br>
+- the verb **yeet** is a fairly new verb<br><br>
+- if you know the meaning of **yeet**<br><br>
+- the term **yeeter** is easily understandable<br><br>
+- even if you have never heard it before
+]
+.pull-right[
+<br><br><br>
+<img src="../pic/0129/suffixish.jpeg" width="100%">
+]
+
+---
+class: center, middle
+## **Lexical Entries**
+<br><br><br>
+<table style="width:60%; border-collapse:collapse;">
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;">label</td>
+    <td style="width:20%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'-er'</span></td>
+    <td style="width:20%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'un-'</span></td>
+    <td style="width:20%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'-able'</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>phonological representation</b></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">/ər/</td>
+    <td style="width:20%; text-align:center; border:1px solid black;">/ʌn/</td>
+    <td style="width:20%; text-align:center; border:1px solid black;">/ʌbəl/</td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>semantic representation</b></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">one who does <i>X</i></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">not <i>X</i></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">able to be <i>X</i>-ed</td>
+  </tr>
+</table>
+
+---
+## **Morphemes**
+<br>
+### teach, dog, fish and -er, un-, -able are all **morphemes**
+<br><br>
+.pull-left[
+<br>
+<img src="../pic/0129/suffix.jpg" width="100%">
+]
+.pull-right[
+<br><br>
+**morpheme**
+- the minimal unit of phonology-meaning correspondence.
+- in other words, a morpheme is a string of sounds whose meaning cannot be broken down into smaller meaningful units <br><br>
+]
+
+
+---
+class: middle, center
+# ***morpheme*** 
+<br><br>
+## <span style="color:green"><b>smallest linguistic unit</b></span> with <span style="color:blue"><b>meaning</b></span>
+
+---
+## **Smallest Linguistic Unit** with Meaning
+<br>
+.pull-left[
+- **smallest linguistic unit** means shortest sequence of sounds<br><br>
+- what's the **shortest** sequence of sounds with meaning you can
+**break** these words into?
+]
+.pull-right[
+.pull-left[
+<br><br><br>
+<span style="color:blue"><b><i>schoolbus</i></b><br><br>
+<span style="color:blue"><b><i>bee</i></b><br><br>
+<span style="color:blue"><b><i>elephant</i></b><br><br>
+<span style="color:blue"><b><i>opener</i></b><br><br>
+<span style="color:blue"><b><i>silliest</i></b>
+]
+.pull-right[]
+]
+
+---
+## **Smallest Linguistic Unit** with Meaning
+<br>
+.pull-left[
+- we use **hyphens** (-) to indicate morpheme boundaries<br><br>
+- morphemes are **NOT** the same as syllables:
+  - *<span style="color:green">elephant</span>* has three syllables, but only <b>one</b> morpheme
+  - *<span style="color:green">el</span>*, *<span style="color:green">e</span>*, *<span style="color:green">phant</span>* don’t mean anything – they’re syllables, but not morphemes<br><br>
+- morphemes are made of **sounds**, NOT letters:
+  - *<span style="color:green">silly</span>* and *<span style="color:green">silli</span>*- are two ways of spelling the same morpheme
+  - same with *<span style="color:green">big</span>*, *<span style="color:green">bigg</span>*-er and *<span style="color:green">lie</span>*, *<span style="color:green">ly</span>*-ing
+  - don’t worry about spelling differences
+]
+.pull-right[
+.pull-left[
+<br><br><br>
+<span style="color:blue"><b><i>school-bus</i></b><br><br>
+<span style="color:blue"><b><i>bee</i></b><br><br>
+<span style="color:blue"><b><i>elephant</i></b><br><br>
+<span style="color:blue"><b><i>open-er</i></b><br><br>
+<span style="color:blue"><b><i>silli-est</i></b>
+]
+.pull-right[]
+]
+
+---
+## **Smallest Linguistic Unit** with Meaning
+<br>
+.pull-left[
+- note that it’s OK for a word to have **just one** morpheme
+  - every word has at least one morpheme, some have more<br><br>
+- words with one morpheme are called **monomorphemic** or **simplex words**
+  - *bee*, *elephant*<br><br>
+- words with two or more morphemes are **polymorphemic** or **complex words**
+  - *school-bus*, *open-er*, *silli-est*<br><br>
+- sometimes you’ll hear terms like **bimorphemic** or **trimorphemic**
+  - what do you think they mean?
+]
+.pull-right[
+.pull-left[
+<br><br><br>
+<span style="color:blue"><b><i>school-bus</i></b><br><br>
+<span style="color:blue"><b><i>bee</i></b><br><br>
+<span style="color:blue"><b><i>elephant</i></b><br><br>
+<span style="color:blue"><b><i>open-er</i></b><br><br>
+<span style="color:blue"><b><i>silli-est</i></b>
+]
+.pull-right[]
+]
+
+---
+## Smallest Linguistic Unit with **Meaning**
+<br>
+- morphemes can have two types of **meaning**:
+<br><br><br>
+<div style="text-align:center">
+<img src="../pic/0129/meaning.png" width="90%">
+</div>
+
+---
+## **Exercise: Finding Morphemes 1**
+<br>
+Which of the following words contain the morpheme **–un** with the phonological form **/ʌn/**? And which are not?<br><br>
+.pull-left[
+.pull-left[
+unfaithful<br><br>
+unlawful<br><br>
+untreated<br><br>
+untouched
+]
+.pull-right[
+unthinkable<br><br>
+unhappy<br><br>
+unable<br><br>
+unclear
+]
+]
+.pull-right[
+.pull-left[
+untied<br><br>
+until<br><br>
+unsuspecting<br><br>
+unpretentious
+]
+.pull-right[
+underwear<br><br>
+undershirt<br><br>
+unprepared<br><br>
+underprepared
+]
+]
+
+---
+## **Exercise: Finding Morphemes 1**
+<br>
+Which of the following words contain the morpheme **–un** with the phonological form **/ʌn/**? And which are not?<br><br>
+.pull-left[
+.pull-left[
+unfaithful<br><br>
+unlawful<br><br>
+untreated<br><br>
+untouched
+]
+.pull-right[
+unthinkable<br><br>
+unhappy<br><br>
+unable<br><br>
+unclear
+]
+]
+.pull-right[
+.pull-left[
+untied<br><br>
+until ❌<br><br>
+unsuspecting<br><br>
+unpretentious
+]
+.pull-right[
+underwear ❌<br><br>
+undershirt ❌<br><br>
+unprepared<br><br>
+underprepared ❌
+]
+]
+
+---
+## **Exercise: Finding Morphemes 2**
+<br>
+.pull-left[
+Break these words down into morphemes, then discuss with a partner:<br><br>
+- is <span style="color:green"><i>-lessness</i></span> a morpheme?
+  <br><br><br>
+- is <span style="color:green"><i>un-</i></span> a morpheme in both *untied* and *uncle*?
+  <br><br><br><br>
+- is <span style="color:green"><i>-s</i></span> a morpheme in both *sleeps* and *lens*?
+  <br><br><br><br>
+- does <span style="color:green"><i>er-</i></span> mean the same thing in both *smaller* and *helper*?
+  
+]
+.pull-right[
+<br><br>
+1. <span style="color:blue"><i>sleeps</i></span><br><br>
+2. <span style="color:blue"><i>sleepless</i></span><br><br>
+3. <span style="color:blue"><i>sleeplessness</i></span><br><br>
+4. <span style="color:blue"><i>lens</i></span><br><br>
+5. <span style="color:blue"><i>smaller</i></span><br><br>
+6. <span style="color:blue"><i>helper</i></span><br><br>
+7. <span style="color:blue"><i>untied</i></span><br><br>
+8. <span style="color:blue"><i>uncle</i></span><br><br>
+]
+
+---
+## **Exercise: Finding Morphemes 2**
+<br>
+.pull-left[
+Break these words down into morphemes, then discuss with a partner:<br><br>
+- is <span style="color:green"><i>-lessness</i></span> a morpheme?
+  - **no**, it's two morphemes: *-less* and *-ness*<br><br>
+- is <span style="color:green"><i>un-</i></span> a morpheme in both *untied* and *uncle*?
+  - **no**, only in *un-tie-d* because it means something there<br><br>
+- is <span style="color:green"><i>-s</i></span> a morpheme in both *sleeps* and *lens*?
+  - **no**, only in *sleep-s* because it means something there<br><br>
+- does <span style="color:green"><i>er-</i></span> mean the same thing in both *smaller* and *helper*?
+  - **no**, these morphemes are **homophones**
+]
+.pull-right[
+<br><br>
+1. <span style="color:blue"><i>sleeps</i></span><br><br>
+2. <span style="color:blue"><i>sleepless</i></span><br><br>
+3. <span style="color:blue"><i>sleeplessness</i></span><br><br>
+4. <span style="color:blue"><i>lens</i></span><br><br>
+5. <span style="color:blue"><i>smaller</i></span><br><br>
+6. <span style="color:blue"><i>helper</i></span><br><br>
+7. <span style="color:blue"><i>untied</i></span><br><br>
+8. <span style="color:blue"><i>uncle</i></span><br><br>
+]
+
+---
+class: center middle
+### **Should complex words get their own lexical entry?**
+<br><br>
+We have seen that both ***teach*** and ***-er*** have lexical entries<br>should ***teacher*** also have one? Why or why not? 
+<br><br><br>
+<table style="width:60%; border-collapse:collapse;">
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;">label</td>
+    <td style="width:20%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'teacher'</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>phonological representation</b></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">/tijtʃər/</td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>semantic representation</b></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">one who teaches</td>
+  </tr>
+</table>
+
+---
+## **Finding morphemes in other languages**
+### (Inuktitut, Eskaleut)
+<br>
+<div style="text-align:center">
+<img src="../pic/0129/other.png" width="70%">
+</div>
+<br><br>
+<table style="width:60%; border-collapse:collapse;">
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;">label</td>
+    <td style="width:20%; text-align:center; border:1px solid black;"><span style="color:#CC0033">'ighloo'</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>phonological representation</b></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">/iɣlu/</td>
+  </tr>
+  
+  <tr>
+    <td style="width:15%; text-align:center; border:1px solid black;"><b>semantic representation</b></td>
+    <td style="width:20%; text-align:center; border:1px solid black;">HOUSE</td>
+  </tr>
+</table>
+
+---
+## **Finding morphemes in other languages**
+### (Persian, Iranian)
+<br>
+Try to match the meanings in (a) through (h) with a **morpheme** in the Persian data.
+  - a prefix is marked with a hyphen **following** the morpheme (X-)
+  - a suffix is marked with a hyphen **preceding** the morpheme (-X)
+<br><br><br><br>
+
+.pull-left[
+.pull-left[
+(a) [<span style="color:blue">xarid</span>]<br><br>
+(b) [mi<span style="color:blue">xarid</span>]<br><br>
+(c) [<span style="color:blue">xarid</span>am]<br><br>
+(d) [<span style="color:blue">xarid</span>i]
+]
+.pull-right[
+'bought'<br><br>
+'was buying'<br><br>
+'I bought'<br><br>
+'you (sg) bought'
+]
+]
+.pull-right[
+.pull-left[
+(e) [mi<span style="color:blue">xarid</span>id]<br><br>
+(f) [na<span style="color:blue">xarid</span>am]<br><br>
+(g) [nami<span style="color:blue">xarid</span>and]<br><br>
+(h) [na<span style="color:blue">xarid</span>im]
+]
+.pull-right[
+'You (pl) were buying'<br><br>
+'I did not buy'<br><br>
+'They were not buying'<br><br>
+'We did not buy'
+]
+]
+
+---
+## **Finding morphemes in other languages**
+### (Persian, Iranian)
+<br>
+.pull-left[
+.pull-left[
+(a) [<span style="color:blue">xarid</span>]<br><br>
+(b) [mi<span style="color:blue">xarid</span>]<br><br>
+(c) [<span style="color:blue">xarid</span>am]<br><br>
+(d) [<span style="color:blue">xarid</span>i]
+]
+.pull-right[
+'bought'<br><br>
+'was buying'<br><br>
+'I bought'<br><br>
+'you (sg) bought'
+]
+]
+.pull-right[
+.pull-left[
+(e) [mi<span style="color:blue">xarid</span>id]<br><br>
+(f) [na<span style="color:blue">xarid</span>am]<br><br>
+(g) [nami<span style="color:blue">xarid</span>and]<br><br>
+(h) [na<span style="color:blue">xarid</span>im]
+]
+.pull-right[
+'You (pl) were buying'<br><br>
+'I did not buy'<br><br>
+'They were not buying'<br><br>
+'We did not buy'
+]
+]
+<br><br>
+.pull-left[
+.pull-left[
+.pull-left[
+
+]
+.pull-right[
+a. I<br>
+b. you (sg)<br>
+c. we<br>
+d. you (pl)
+]
+]
+.pull-right[
+.pull-left[
+<span style="color:white">-am</span><br>
+<span style="color:white">i</span><br>
+<span style="color:white">im</span><br>
+<span style="color:white">id</span>
+]
+.pull-right[
+
+]
+]
+]
+.pull-right[
+.pull-left[
+.pull-left[
+
+]
+.pull-right[
+e. they<br>
+f. not<br>
+g. PROG<br>
+h. bought
+]
+]
+.pull-right[
+.pull-left[
+<span style="color:white">-and</span><br>
+<span style="color:white">na-</span><br>
+<span style="color:white">mi-</span><br>
+<span style="color:white">xarid</span>
+]
+.pull-right[
+
+]
+]
+]
+
+---
+## **Finding morphemes in other languages**
+### (Persian, Iranian)
+<br>
+.pull-left[
+.pull-left[
+(a) [<span style="color:blue">xarid</span>]<br><br>
+(b) [mi<span style="color:blue">xarid</span>]<br><br>
+(c) [<span style="color:blue">xarid</span>am]<br><br>
+(d) [<span style="color:blue">xarid</span>i]
+]
+.pull-right[
+'bought'<br><br>
+'was buying'<br><br>
+'I bought'<br><br>
+'you (sg) bought'
+]
+]
+.pull-right[
+.pull-left[
+(e) [mi<span style="color:blue">xarid</span>id]<br><br>
+(f) [na<span style="color:blue">xarid</span>am]<br><br>
+(g) [nami<span style="color:blue">xarid</span>and]<br><br>
+(h) [na<span style="color:blue">xarid</span>im]
+]
+.pull-right[
+'You (pl) were buying'<br><br>
+'I did not buy'<br><br>
+'They were not buying'<br><br>
+'We did not buy'
+]
+]
+<br><br>
+.pull-left[
+.pull-left[
+.pull-left[
+
+]
+.pull-right[
+a. I<br>
+b. you (sg)<br>
+c. we<br>
+d. you (pl)
+]
+]
+.pull-right[
+.pull-left[
+<span style="color:green">-am</span><br>
+<span style="color:green">i</span><br>
+<span style="color:green">im</span><br>
+<span style="color:green">id</span>
+]
+.pull-right[
+
+]
+]
+]
+.pull-right[
+.pull-left[
+.pull-left[
+
+]
+.pull-right[
+e. they<br>
+f. not<br>
+g. PROG<br>
+h. bought
+]
+]
+.pull-right[
+.pull-left[
+<span style="color:green">-and</span><br>
+<span style="color:green">na-</span><br>
+<span style="color:green">mi-</span><br>
+<span style="color:green">xarid</span>
+]
+.pull-right[
+
+]
+]
+]
+<br><br><br>
+
+--
+
+<div style="text-align:center">
+is it possible to split <b><i>buy</b></i> and <b><i>PAST</b></i> from these data?
+</div>
+
+---
+## **Finding morphemes in other languages**
+### (Persian, Iranian)
+<br>
+.pull-left[
+.pull-left[
+(a) [<span style="color:blue">xarid</span>]<br><br>
+(b) [mi<span style="color:blue">xarid</span>]<br><br>
+(c) [<span style="color:blue">xarid</span>am]<br><br>
+(d) [<span style="color:blue">xarid</span>i]
+]
+.pull-right[
+'bought'<br><br>
+'was buying'<br><br>
+'I bought'<br><br>
+'you (sg) bought'
+]
+]
+.pull-right[
+.pull-left[
+(e) [mi<span style="color:blue">xarid</span>id]<br><br>
+(f) [na<span style="color:blue">xarid</span>am]<br><br>
+(g) [nami<span style="color:blue">xarid</span>and]<br><br>
+(h) [na<span style="color:blue">xarid</span>im]
+]
+.pull-right[
+'You (pl) were buying'<br><br>
+'I did not buy'<br><br>
+'They were not buying'<br><br>
+'We did not buy'
+]
+]
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;How would you say the following in Persian?
+<br><br>
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:2%; text-align:left;">i.</td>
+    <td style="width:15%; text-align:left;">They were buying.</td>
+    <td style="width:15%; text-align:left;"><span style="color:white">mi-xarid-and</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:2%; text-align:left;">ii.</td>
+    <td style="width:15%; text-align:left;">You (sg) did not buy.</td>
+    <td style="width:15%; text-align:left;"><span style="color:white">na-xarid-i</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:2%; text-align:left;">iii.</td>
+    <td style="width:15%; text-align:left;">You (sg) were buying.</td>
+    <td style="width:15%; text-align:left;"><span style="color:white">mi-xarid-i</span></td>
+  </tr>
+</table>
+
+---
+## **Finding morphemes in other languages**
+### (Persian, Iranian)
+<br>
+.pull-left[
+.pull-left[
+(a) [<span style="color:blue">xarid</span>]<br><br>
+(b) [mi<span style="color:blue">xarid</span>]<br><br>
+(c) [<span style="color:blue">xarid</span>am]<br><br>
+(d) [<span style="color:blue">xarid</span>i]
+]
+.pull-right[
+'bought'<br><br>
+'was buying'<br><br>
+'I bought'<br><br>
+'you (sg) bought'
+]
+]
+.pull-right[
+.pull-left[
+(e) [mi<span style="color:blue">xarid</span>id]<br><br>
+(f) [na<span style="color:blue">xarid</span>am]<br><br>
+(g) [nami<span style="color:blue">xarid</span>and]<br><br>
+(h) [na<span style="color:blue">xarid</span>im]
+]
+.pull-right[
+'You (pl) were buying'<br><br>
+'I did not buy'<br><br>
+'They were not buying'<br><br>
+'We did not buy'
+]
+]
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;How would you say the following in Persian?
+<br><br>
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:2%; text-align:left;">i.</td>
+    <td style="width:15%; text-align:left;">They were buying.</td>
+    <td style="width:15%; text-align:left;"><span style="color:green">mi-xarid-and</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:2%; text-align:left;">ii.</td>
+    <td style="width:15%; text-align:left;">You (sg) did not buy.</td>
+    <td style="width:15%; text-align:left;"><span style="color:green">na-xarid-i</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:3%; text-align:left;"></td>
+    <td style="width:2%; text-align:left;">iii.</td>
+    <td style="width:15%; text-align:left;">You (sg) were buying.</td>
+    <td style="width:15%; text-align:left;"><span style="color:green">mi-xarid-i</span></td>
+  </tr>
+</table>
+
+---
+## **Lexical Category / Parts of Speech**
+<br>
+.pull-left[<img src="../pic/0129/pos.jpg" width="90%">]
+.pull-right[
+- **Noun (N.)**: to name things, people, places, concepts, etc.
+  - *water*, *sister*, *sky*<br><br>
+  - combine with plural morpheme -s; 
+  - often ends with -ion/-ment/...; 
+  - occur after a determiner, ...<br><br>
+- <span style="color:green"><b>Verb (V.)</b></span>: to show an action or a state<br>
+  - *play*, *think*, *hit*<br><br>
+  - combine with past morpheme -d, has combined with -ize, ... 
+  - follow an auxiliary (does), modal (might), or negation (not), ...
+]
+  
+---
+## **Lexical Category / Parts of Speech**
+<br>
+.pull-left[<img src="../pic/0129/pos.jpg" width="90%">]
+.pull-right[
+- <span style="color:blue"><b>Adjective (Adj.)</b></span>: to describe a noun, a pronoun or part of a sentence<br>
+  - *tall*, *thin*, *smart*
+  - comparative    e.g., bigger
+  - superlative   e.g., biggest<br><br>
+  - combine with un-, has combined with -able, ... 
+  - occur between a determiner and a noun, ... <br><br>
+
+- <span style="color:orange"><b>Adverb (Adv.)</b></span>:
+  - *carefully*, *intentionally*, *happily*<br><br>
+  - appear with -ly, ... 
+  - can’t appear between a determiner and a noun, ...
+]
+  
+---
+## **Lexical Category / Parts of Speech**
+<br>
+How do we know that <span style="color:green"><b>wabe</b></span> is a **noun**, and that <span style="color:green"><b>slithy</b></span> is an **adjective**?
+<br><br>
+<div style="text-align:center">
+Twas brillig, and the slithy toves <br><br>
+Did gyre and gimble in the wabe; <br><br>
+All mimsy were the borogoves, <br><br>
+And the mome raths outgrabe. <br><br>
+<div style="font-size:0.85em">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lewis Carroll, <i>Jabberwocky</i> (1871)
+</div>
+</div>
+<br><br>
+<img src="../pic/0129/cat1.png" width="24%">
+<img src="../pic/0129/cat2.png" width="24%">
+<img src="../pic/0129/cat3.png" width="24%">
+<img src="../pic/0129/cat4.png" width="24%">
+
+
+---
+## **Exercise: Parts of Speech and Morphemes**
+<br><br>
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">English Example</td>
+    <td style="width:15%; text-align:center; border:1px solid black;">Morphemes</td>
+    <td style="width:30%; text-align:center; border:1px solid black;">Parts of Speech</td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center; font-size:0.5em"><span style="color:white">-</span></td>
+    <td style="width:15%; text-align:center; border-left:1px solid black;"></td>
+    <td style="width:15%; text-align:center;"></td>
+    <td style="width:30%; text-align:center; border-right:1px solid black;"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">eats</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>eat</i>,<i>-s</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">verb, 3rd person singular</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">waited</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>wait</i>,<i>-ed</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">verb, past tense</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">sleeping</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>sleep</i>,<i>-ing</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">verb, progressive</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">eaten</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>eat</i>,<i>-en</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">verb, perfect</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">Leo's</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>Leo</i>,<i>'s</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">(proper) noun, possessive</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">higher</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>high</i>,<i>-er</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">adjective, comparative</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">smartest</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:white"><i>smart</i>,<i>-est</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:white">adjective, superlative</span></td>
+  </tr>
+</table>
+
+---
+## **Exercise: Parts of Speech and Morphemes**
+<br><br>
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">English Example</td>
+    <td style="width:15%; text-align:center; border:1px solid black;">Morphemes</td>
+    <td style="width:30%; text-align:center; border:1px solid black;">Parts of Speech</td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center; font-size:0.5em"><span style="color:white">-</span></td>
+    <td style="width:15%; text-align:center; border-left:1px solid black;"></td>
+    <td style="width:15%; text-align:center;"></td>
+    <td style="width:30%; text-align:center; border-right:1px solid black;"></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">eats</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>eat</i>,<i>-s</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">verb, 3rd person singular</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">waited</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>wait</i>,<i>-ed</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">verb, past tense</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">sleeping</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>sleep</i>,<i>-ing</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">verb, progressive</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">eaten</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>eat</i>,<i>-en</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">verb, perfect</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">Leo's</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>Leo</i>,<i>'s</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">(proper) noun, possessive</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">higher</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>high</i>,<i>-er</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">adjective, comparative</span></td>
+  </tr>
+  
+  <tr>
+    <td style="width:05%; text-align:center;"></td>
+    <td style="width:15%; text-align:center; border:1px solid black;">smartest</td>
+    <td style="width:15%; text-align:center; border:1px solid black;"><span style="color:green"><i>smart</i>,<i>-est</i></span></td>
+    <td style="width:30%; text-align:center; border:1px solid black;"><span style="color:blue">adjective, superlative</span></td>
+  </tr>
+</table>
+
+---
+## **Exercise: Adapted from <i>Language Files</i>**
+<br>
+From the examples given for each of the following suffixes, determine:<br><br>
+  1. the lexical category (i.e. parts of speech) of the **root**
+  2. the lexical category (i.e. parts of speech) of the word resulting from the addition of the **suffix**
+<br><br><br><br>
+
+.pull-left[
+a. -ive: <u>*repressive*, *active*, *disruptive*, *explosive*</u><br><br>
+b. -ion: <u>*invention*, *narration*, *expression*, *pollution*</u><br><br>
+c. re-: <u>*reelect*, *resubmit*, *restart*, *recap*, *reactivate*</u>
+]
+.pull-right[
+**-ive** takes <u><span style="color:white">verb</span></u>, yields <u><span style="color:white">noun</span></u><br><br>
+**-ion** takes <u><span style="color:white">verb</span></u>, yields <u><span style="color:white">noun</span></u><br><br>
+**re-** takes <u><span style="color:white">verb</span></u>, yields <u><span style="color:white">noun</span></u><br><br>
+]
+
+---
+## **Exercise: Adapted from <i>Language Files</i>**
+<br>
+From the examples given for each of the following suffixes, determine: i) the lexical category (i.e. parts of speech) of the root, and ii) the lexical category (i.e. parts of speech) of the word resulting from the addition of the suffix.
+<br><br>
+.pull-left[
+a. -ive: <u>*repressive*, *active*, *disruptive*, *explosive*</u><br><br>
+b. -ion: <u>*invention*, *narration*, *expression*, *pollution*</u><br><br>
+c. re-: <u>*reelect*, *resubmit*, *restart*, *recap*, *reactivate*</u>
+]
+.pull-right[
+**-ive** takes <u><span style="color:blue">verb</span></u>, yields <u><span style="color:blue">adjective</span></u><br><br>
+**-ion** takes <u><span style="color:blue">verb</span></u>, yields <u><span style="color:blue">noun</span></u><br><br>
+**re-** takes <u><span style="color:blue">verb</span></u>, yields <u><span style="color:blue">verb</span></u><br><br>
+]
+
+---
+class: center, middle
+**no homework** is due this week<br><br>
+continue <span style="color:green"><b>reading</b></span> Sections 4.0, 4.1 and 4.2 of Chapter 4: Morphology from <i>Language Files</i><br><br>
+<span style="color:green"><b>readings</b></span> Sections 4.3, 4.4 and 4.5 of Chapter 4: Morphology from <i>Language Files</i><br><br>
+<img src="../pic/0129/fine.jpeg" width="55%">
+<br><br>
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
